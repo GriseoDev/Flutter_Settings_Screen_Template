@@ -83,14 +83,11 @@ Navigator.of(context).push(
 
 ## Screenshots
 
-Light Mode  
-[screenshot: screenshots/settings_light_1.png]
+![Light Mode](screenshots/settings_light_1.png)
 
-Dark Mode  
-[screenshot: screenshots/settings_dark_1.png]
+![Dark Mode](screenshots/settings_dark_1.png)
 
-Account Section  
-[screenshot: screenshots/settings_light_2.png]
+![Account Section](screenshots/settings_light_2.png)
 
 ---
 
