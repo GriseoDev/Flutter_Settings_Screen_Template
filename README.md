@@ -96,10 +96,11 @@ Navigator.of(context).push(
 This repository is for preview and demonstration purposes.
 
 The full template, including commercial usage rights and future updates,
-is available on Gumroad.
+is available on Gumroad (https://griseo.gumroad.com/l/dev-flutter-settings-template).
 
 ---
 
 ## Bundle
 
 This template is part of the Flutter Starter UI Bundle, which includes multiple reusable Flutter UI templates at a discounted price.
+Link: https://griseo.gumroad.com/l/dev-flutter-starter-ui-bundle
