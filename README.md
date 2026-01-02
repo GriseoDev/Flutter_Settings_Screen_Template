@@ -1,5 +1,7 @@
 # Flutter Settings Screen Template
 
+## Free preview – full UI kit on Gumroad
+
 A clean, reusable Settings Screen UI built with Flutter and Material 3.
 Designed to be easily integrated into any Flutter app without enforcing a specific architecture.
 
