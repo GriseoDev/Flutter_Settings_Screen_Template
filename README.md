@@ -7,6 +7,9 @@ Designed to be easily integrated into any Flutter app without enforcing a specif
 
 This template focuses on structure, layout, and best practices for common app settings.
 
+Full template available on Gumroad:  
+👉 https://griseo.gumroad.com/l/dev-flutter-settings-template
+
 ---
 
 ## Features
